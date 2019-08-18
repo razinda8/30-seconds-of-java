@@ -1,4 +1,7 @@
+
 # 30 Seconds of Java
+Rizanda8-Update-README.md-Hello World!
+Update 
 
 [![Build status](https://travis-ci.org/iluwatar/java-snippets.svg?branch=master)](https://travis-ci.org/iluwatar/java-snippets)
 
